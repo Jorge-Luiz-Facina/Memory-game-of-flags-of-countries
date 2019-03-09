@@ -1,10 +1,7 @@
 ﻿using Game_Memory.DataBase;
-using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Game_Memory
@@ -33,7 +30,7 @@ namespace Game_Memory
             tableScore.Size = new Size(300, 100);
             tableScore.ColumnCount = 2;
             tableScore.RowCount = 1;
-            tableScore.Location = new System.Drawing.Point(500, 250);
+            tableScore.Location = new Point(500, 250);
             tableScore.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
             tableScore.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
             tableScore.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));

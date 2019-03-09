@@ -4,8 +4,6 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Globalization;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Game_Memory
 {
@@ -32,7 +30,7 @@ namespace Game_Memory
 
         public static void loadImageDoubt()
         {
-            Image image = Image.FromFile(System.Environment.CurrentDirectory + @"\_doubt.png");
+            Image image = Image.FromFile(Environment.CurrentDirectory + @"\_doubt.png");
             doubt = new Flag(image, "doubt", "single");
         }
 

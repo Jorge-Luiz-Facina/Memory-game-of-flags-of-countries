@@ -8,3 +8,12 @@ C:\Users\Main Duelo\Downloads\memoryy\Memory-game-of-flags-of-countries\Game Mem
 C:\Users\Main Duelo\Downloads\memoryy\Memory-game-of-flags-of-countries\Game Memory\obj\Debug\Game Memory.csproj.CoreCompileInputs.cache
 C:\Users\Main Duelo\Downloads\memoryy\Memory-game-of-flags-of-countries\Game Memory\obj\Debug\Game Memory.exe
 C:\Users\Main Duelo\Downloads\memoryy\Memory-game-of-flags-of-countries\Game Memory\obj\Debug\Game Memory.pdb
+C:\Users\Main Duelo\Desktop\gameMemory\Memory-game-of-flags-of-countries\Game Memory\bin\Debug\Game Memory.exe.config
+C:\Users\Main Duelo\Desktop\gameMemory\Memory-game-of-flags-of-countries\Game Memory\bin\Debug\Game Memory.exe
+C:\Users\Main Duelo\Desktop\gameMemory\Memory-game-of-flags-of-countries\Game Memory\bin\Debug\Game Memory.pdb
+C:\Users\Main Duelo\Desktop\gameMemory\Memory-game-of-flags-of-countries\Game Memory\obj\Debug\Game_Memory.MainForm.resources
+C:\Users\Main Duelo\Desktop\gameMemory\Memory-game-of-flags-of-countries\Game Memory\obj\Debug\Game_Memory.Properties.Resources.resources
+C:\Users\Main Duelo\Desktop\gameMemory\Memory-game-of-flags-of-countries\Game Memory\obj\Debug\Game Memory.csproj.GenerateResource.cache
+C:\Users\Main Duelo\Desktop\gameMemory\Memory-game-of-flags-of-countries\Game Memory\obj\Debug\Game Memory.csproj.CoreCompileInputs.cache
+C:\Users\Main Duelo\Desktop\gameMemory\Memory-game-of-flags-of-countries\Game Memory\obj\Debug\Game Memory.exe
+C:\Users\Main Duelo\Desktop\gameMemory\Memory-game-of-flags-of-countries\Game Memory\obj\Debug\Game Memory.pdb

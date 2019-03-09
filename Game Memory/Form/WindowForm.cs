@@ -1,23 +1,20 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Game_Memory
 {
     class Window
     {
-        private static readonly int WIDTH_SPACE = 120;
-        private static readonly int HEIGHT_SPACE = 70;
+        private const int WIDTH_SPACE = 120;
+        private const int HEIGHT_SPACE = 70;
 
-        private static readonly int MID_WIDTH = 600;
-        private static readonly int MID_HEIGHT = 340;
+        private const int MID_WIDTH = 600;
+        private const int MID_HEIGHT = 340;
 
-        private static readonly int MID_WIDTH_FLAG = 60;
-        private static readonly int MID_HEIGHT_FLAG = 35;
+        private const int MID_WIDTH_FLAG = 60;
+        private const int MID_HEIGHT_FLAG = 35;
 
         public void setWindow(int count, int columns, int lines)
         {

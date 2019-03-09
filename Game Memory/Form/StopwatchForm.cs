@@ -1,15 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Game_Memory
 {
     class StopwatchForm
     {
-        private DateTime dateTime;
         public static TimeSpan timeSpan;
+
+        private DateTime dateTime;
         private System.Threading.Timer timer;
 
         public void start(int timeSeconds)

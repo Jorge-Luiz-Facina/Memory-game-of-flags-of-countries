@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Game_Memory.Levels
+﻿namespace Game_Memory.Levels
 {
     abstract class Level
     {
@@ -14,6 +8,7 @@ namespace Game_Memory.Levels
         protected int numberDoubledFlags;
         protected int bonusMultiplier;
         protected int timeStopwatch;
+
         private static Window window = new Window();
         protected static StopwatchForm stopwatch = new StopwatchForm();
 

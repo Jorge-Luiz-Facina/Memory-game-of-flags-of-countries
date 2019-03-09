@@ -1,37 +1,29 @@
 ﻿using Game_Memory.DataBase;
 using Game_Memory.Levels;
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Globalization;
-using System.IO;
-using System.Linq;
-using System.Resources;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Game_Memory
 {
     public partial class MainForm : Form
     {
+        public static MainForm form;
+        public static double seconds = 0;
+
         private User user = new User(0);
         private UserController userController = new UserController();
         private ScoreForm scoreForm = new ScoreForm();
-        public static MainForm form;
         private Level level;
+
         private int clicks = 0;
         private int score = 0;
 
         private PictureBox pictureLastClick;
         private PictureBox previousPicture;
         private TableLayoutPanel tableScore = new TableLayoutPanel();
-
-        public static double seconds = 0;
 
         public MainForm()
         {

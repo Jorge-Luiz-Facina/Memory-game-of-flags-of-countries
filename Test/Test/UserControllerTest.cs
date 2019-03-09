@@ -1,5 +1,4 @@
-﻿using System;
-using Game_Memory.DataBase;
+﻿using Game_Memory.DataBase;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Test
