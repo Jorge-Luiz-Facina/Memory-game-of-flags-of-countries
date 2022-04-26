@@ -28,8 +28,3 @@
 - [PictureBox Class](https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.picturebox?view=netframework-4.7.2)
 
 - [TableLayoutPanel](https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/tablelayoutpanel-control-overview)
-
-## Author
-
-| [<img src="https://avatars.githubusercontent.com/MainDuel?v=3&s=115"><br><sub>@MainDuel</sub>](https://github.com/MainDuel) |
-| :---: |
